@@ -4,3 +4,4 @@ constant: test_const {
   value: ""
   export: override_required
 }
+
