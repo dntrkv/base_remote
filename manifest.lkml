@@ -1,7 +1,7 @@
 project_name: "base_remote"
 
 constant: test_const {
-  value: ""
+  value: "edit4"
   export: override_required
 }
 
