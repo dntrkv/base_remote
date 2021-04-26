@@ -5,6 +5,7 @@ constant: test_const {
   export: override_required
 }
 
+
 constant: test_const_2 {
   value: ""
   export: override_required
