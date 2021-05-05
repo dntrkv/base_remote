@@ -10,5 +10,12 @@ constant: test_const_2 {
   export: override_required
 }
 
+constant: test_const_3 {
+  value: ""
+  export: override_required
+}
+
+
+
 
 
